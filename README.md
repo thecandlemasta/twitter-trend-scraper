@@ -16,7 +16,7 @@ Scrape current Twitter trends from [trends24.in](https://trends24.in) using Pupp
 
 ### Without Docker
 ```bash
-git clone https://github.com/yourusername/twitter-trend-scraper.git
+git clone https://github.com/thecandlemasta/twitter-trend-scraper.git
 cd twitter-trend-scraper
 npm install
 node index.js
