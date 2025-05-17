@@ -1,0 +1,21 @@
+{
+  "name": "twitter-trend-scraper",
+  "version": "1.0.0",
+  "description": "Scrape current Twitter trends from trends24.in",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^21.9.0"
+  },
+  "keywords": [
+    "twitter",
+    "trends",
+    "scraper",
+    "puppeteer"
+  ],
+  "author": "The candle masta",
+  "license": "MIT"
+}
